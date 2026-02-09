@@ -223,7 +223,7 @@ uninstall_theme() {
   echo -e "${BLUE}[+]                    DELETE THEME                 [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
-  bash <(curl https://raw.githubusercontent.com/gitfdil1248/thema/main/repair.sh)
+  bash <(curl https://raw.githubusercontent.com/datuk696969/rcloud/main/repair.sh)
   echo -e "                                                       "
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
   echo -e "${GREEN}[+]                 DELETE THEME SUKSES             [+]${NC}"
@@ -242,7 +242,7 @@ echo -e "${BLUE}[+] =============================================== [+]${NC}"
 echo -e "                                                                   "
 
 # Unduh file tema
-wget -O /root/C2.zip https://github.com/gitfdil1248/thema/raw/main/C2.zip
+wget -O /root/C2.zip https://github.com/datuk696969/rcloud/raw/main/C2.zip
 
 # Ekstrak file tema
 unzip /root/C2.zip -d /root/pterodactyl
@@ -449,10 +449,10 @@ while true; do
   echo -e "${RED}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
   echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer ZeroDeveloper Private   ${NC}"
+  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer R CLOUD   ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${WHITE}ggg:     gg.     -   ,ggg       • WhatsApp : 628    ${NC}"
-  echo -e "${WHITE} ggg:     ggg._    _,ggg        • Credit  : R CLOUD ${NC}"
+  echo -e "${WHITE}ggg:     gg.     -   ,ggg       • WhatsApp : 6285753180734    ${NC}"
+  echo -e "${WHITE} ggg:     ggg._    _,ggg        • Credit  : @inisialr696  ${NC}"
   echo -e "${WHITE} ggg.    '.'''ggggggp           • Support by R CLOUD  ${NC}"
   echo -e "${WHITE}  'ggg    '-.__                                           ${NC}"
   echo -e "${WHITE}    ggg                                                   ${NC}"
