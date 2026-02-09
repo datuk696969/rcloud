@@ -13,17 +13,16 @@ display_welcome() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${WHITE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
-  echo -e "${WHITE}[+]                  © RevanBotz                [+]${NC}"
+  echo -e "${WHITE}[+]                  © R CLOUD Botz                [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e ""
-  echo -e "script ini di buat untuk mempermudah penginstalasian thema pterodactyle,"
+  echo -e "script ini di buat untuk mempermudah penginstalasian thema pterodactyl,"
   echo -e "dilarang keras untuk dikasih gratis."
-  echo -e ""
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
-  echo -e "@revanbotz"
+  echo -e "@inisialr696"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@revambotz"
+  echo -e "@inisialr696"
   sleep 4
   clear
 }
@@ -56,7 +55,7 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY ZERO DEVELOPER           [+]${NC}"
+  echo -e "${BLUE}[+]               LICENSY R CLOUD DEVELOPER           [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
@@ -65,11 +64,9 @@ check_token() {
   if [ "$USER_TOKEN" = "rcloud" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN}Buy dulu Gih Ke ZeroDev${NC}"
-    echo -e "${YELLOW}TELEGRAM : @ext4you${NC}"
-    echo -e "${YELLOW}WHATSAPP : 6287767050506${NC}"
-    echo -e "${YELLOW}HARGA TOKEN : 10K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW}©zerodeveloper${NC}"
+    echo -e "${GREEN}R CLOUD${NC}"
+    echo -e "${YELLOW}TELEGRAM : @inisialr696${NC}"
+    echo -e "${YELLOW}©rclouddeveloper${NC}"
     exit 1
   fi
   clear
@@ -92,7 +89,7 @@ install_theme() {
     read -r SELECT_THEME
     case "$SELECT_THEME" in
       1)
-        THEME_URL=$(echo -e "https://github.com/gitfdil1248/thema/raw/main/C2.zip")
+        THEME_URL=$(echo -e "https://github.com/datuk696969/rcloud/raw/main/C2.zip")
         break
         ;;
       2)
@@ -100,7 +97,7 @@ install_theme() {
         break
         ;;
       3)
-        THEME_URL=$(echo -e "https://github.com/gitfdil1248/thema/raw/main/C3.zip")
+        THEME_URL=$(echo -e "https://github.com/datuk696969/rcloud/raw/main/C3.zip")
         break
         ;; 
       x)
@@ -454,9 +451,9 @@ while true; do
   echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
   echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer ZeroDeveloper Private   ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${WHITE}ggg:     gg.     -   ,ggg       • WhatsApp : 6285854642521    ${NC}"
-  echo -e "${WHITE} ggg:     ggg._    _,ggg        • Credit  : RevanBotz ${NC}"
-  echo -e "${WHITE} ggg.    '.'''ggggggp           • Support by Revan Botz  ${NC}"
+  echo -e "${WHITE}ggg:     gg.     -   ,ggg       • WhatsApp : 628    ${NC}"
+  echo -e "${WHITE} ggg:     ggg._    _,ggg        • Credit  : R CLOUD ${NC}"
+  echo -e "${WHITE} ggg.    '.'''ggggggp           • Support by R CLOUD  ${NC}"
   echo -e "${WHITE}  'ggg    '-.__                                           ${NC}"
   echo -e "${WHITE}    ggg                                                   ${NC}"
   echo -e "${WHITE}      ggg                                                 ${NC}"
