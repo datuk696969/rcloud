@@ -66,7 +66,7 @@ check_token() {
   else
     echo -e "${GREEN}R CLOUD${NC}"
     echo -e "${YELLOW}TELEGRAM : @inisialr696${NC}"
-    echo -e "${YELLOW}©rclouddeveloper${NC}"
+    echo -e "${YELLOW}©R CLOUD Official${NC}"
     exit 1
   fi
   clear
@@ -449,9 +449,9 @@ while true; do
   echo -e "${RED}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
   echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer R CLOUD   ${NC}"
+  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer By R CLOUD   ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${WHITE}ggg:     gg.     -   ,ggg       • WhatsApp : 6285753180734    ${NC}"
+  echo -e "${WHITE}ggg:     gg.     -   ,ggg                                             ${NC}"
   echo -e "${WHITE} ggg:     ggg._    _,ggg        • Credit  : @inisialr696  ${NC}"
   echo -e "${WHITE} ggg.    '.'''ggggggp           • Support by R CLOUD  ${NC}"
   echo -e "${WHITE}  'ggg    '-.__                                           ${NC}"
